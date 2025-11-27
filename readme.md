@@ -1,6 +1,9 @@
 # CYRAX
 
-![CYRAX](cyrax.png)
+<p align="center">
+	<img src="cyrax.png" alt="CYRAX" width="300" />
+  
+</p>
 
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
